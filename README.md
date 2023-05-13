@@ -6,3 +6,5 @@ Para facilitar a organização das pastas e códigos do projeto, utilizei do pad
 Entao, nessa aplicação tem o Model que me ajudou com o banco de dados e o controller aonde guardo minhas regras de negócio.
 
 Criacao do container no docker, com o banco de dados postgres . 
+
+Utilizei o SEQUELIZE(ORM) para facilitar o trabalho do SQL com o banco de dados, ou seja, utilizo o sequelize para que o meu banco de dados ( postgres ) compreenda os codicos em javaScript.
