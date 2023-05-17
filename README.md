@@ -8,3 +8,5 @@ Entao, nessa aplicação tem o Model que me ajudou com o banco de dados e o cont
 Criacao do container no docker, com o banco de dados postgres . 
 
 Utilizei o SEQUELIZE(ORM) para facilitar o trabalho do SQL com o banco de dados, ou seja, utilizo o sequelize para que o meu banco de dados ( postgres ) compreenda os codicos em javaScript.
+
+Utilizou a biblioteca Multer , para auxiliar com que o front end encaminhe uma imagem para ser armazenado na minha aplicacao
