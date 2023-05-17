@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon",
     "debug": "nodemon --inspect"
+   
   },
   "keywords": [],
   "author": "",
@@ -33,4 +34,6 @@
     "sequelize-cli": "^6.6.0",
     "sucrase": "^3.32.0"
   }
+  
+  
 }
