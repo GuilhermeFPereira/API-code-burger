@@ -12,3 +12,5 @@ Utilizei o SEQUELIZE(ORM) para facilitar o trabalho do SQL com o banco de dados,
 Utilizou a biblioteca Multer , para auxiliar com que o front end encaminhe uma imagem para ser armazenado na minha aplicacao
 
 Foi aplicado o token JWT, como forma de validação do usuario com o site, assim melhorando a segurança da aplicação.
+
+Foram criadas tabelas relacionais , relacao da tabela de produtos com a tabela de categorias, atraves das migrations
