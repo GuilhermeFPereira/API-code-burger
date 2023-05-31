@@ -7,6 +7,8 @@ Portanto, nessa aplicação tem o Model que me ajudou com o banco de dados e o c
 
 Criação do container no docker, com o banco de dados postgres . 
 
+O método Yup para validação de dados, e a biblioteca UUID para a geração de IDs.
+
 Utilizei o SEQUELIZE(ORM) para facilitar o trabalho do SQL com o banco de dados, ou seja, utilizo o sequelize para que o meu banco de dados relacional ( postgres ) compreenda os códicos em javaScript. Meu banco de dados PostgreSQL, representa e armazena dados em tabelas e linhas.
 
 Utilizado a biblioteca Multer , para auxiliar com que o front end encaminhe uma imagem para ser armazenado na minha aplicação.
